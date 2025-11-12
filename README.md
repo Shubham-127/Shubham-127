@@ -1,8 +1,9 @@
-## Hi there 👋
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Shubham+Srivastava;Computer+Science+Engineer;Flutter+%26+Spring+Boot+Developer;Building+Mobile+%26+Backend+Solutions" alt="Typing SVG" />
+  <strong style="font-size:24px">👋 Hi, I'm Shubham Srivastava</strong><br/>
+  <em>Computer Science Engineer • Flutter & Spring Boot Developer</em>
 </p>
+
 
 
 ---
