@@ -1,8 +1,10 @@
 <!-- Profile Header -->
+<h1 align="center"><b>Hi, I'm Shubham Srivastava 👋</b></h1>
+
 <p align="center">
-  <strong style="font-size:24px">👋 Hi, I'm Shubham Srivastava</strong><br/>
-  <em>Computer Science Engineer • Flutter & Spring Boot Developer</em>
+  <em>Computer Science Engineer | Flutter & Spring Boot Developer | Building Mobile & Backend Solutions 🚀</em>
 </p>
+
 
 
 
