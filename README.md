@@ -1,96 +1,64 @@
-<!-- Profile Header -->
-<h1 align="center"><b>Hi, I'm Shubham Srivastava 👋</b></h1>
+# 👋 Hi, I'm Shubham Srivastava
 
-<p align="center">
-  <em>Computer Science Engineer | Flutter & Spring Boot Developer | Building Mobile & Backend Solutions 🚀</em>
-</p>
-
-
-
+**Computer Science Engineering Student | Full-Stack Developer | Flutter & Spring Boot**
 
 ---
 
-### 🧠 About Me
-👨‍💻 I'm a **Computer Science Engineer** passionate about **building high-performance mobile apps and robust backend systems**.  
-I love working with modern frameworks like **Flutter** and **Spring Boot**, integrating APIs, and crafting scalable software solutions.  
+## 🚀 About Me
 
-💬 *"Code is like humor — when you have to explain it, it’s bad."*
-
----
-
-### ⚙️ Tech Stack
-
-#### 🖥️ Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-#### 🚀 Frameworks & State Management
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-448AFF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-#### 🧩 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-#### 🌐 APIs & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/RESTful%20APIs-4A90E2?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roboflow-00BFA5?style=for-the-badge&logo=robotframework&logoColor=white" />
-</p>
+- 🎓 CSE undergraduate with strong fundamentals in Data Structures, Algorithms, and OOP
+- 💻 Building scalable applications using Flutter, Java, REST APIs and Spring Boot
+- 🌱 Passionate about solving real-world problems through technology
+- 📫 Reach me at: shubham.srivastava1207@gmail.com
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-127&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-127&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
+## 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ---
 
-### 🧩 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🏠 **G.One – AI-Driven Waste Management App** |  AI-based waste segregation and reporting app with Flutter | Flutter, Bloc, Roboflow |
-| 🛒 **Shopping APP** |  E-commerce app with product listing and cart management. | Flutter, Dart, Provider |
-| 🌦️ **Weather APP** | Created a real-time weather app using OpenWeatherMap API and Flutter.  | Flutter,Dart, OpenWeatherMap API  |
+## 🌟 Featured Project
+
+### 🌿 G.One — AI-Driven Waste Management App
+
+A full-stack cross-platform waste management platform built with Flutter and Spring Boot.
+
+| | |
+|---|---|
+| 📱 Citizen App Demo | [appetize.io/app/b_kzda4v4gp5lws7xesndomvbljm](https://appetize.io/app/b_kzda4v4gp5lws7xesndomvbljm) |
+| 🖥️ Admin Dashboard | [gone-admin.vercel.app](https://gone-admin.vercel.app) |
+| ⚙️ Backend API | [gonebackend-production.up.railway.app](https://gonebackend-production.up.railway.app) |
+| 🐙 GitHub Org | [G-One-AI-Driven-Waste-Managment-App](https://github.com/G-One-AI-Driven-Waste-Managment-App) |
+
+**Key Features:**
+- 🤖 Roboflow AI waste classification via phone camera
+- 📍 GPS-tagged illegal dumping reports with photo upload
+- 🏆 Gamification — points, levels, streaks, live leaderboard
+- 🗺️ Nearest centers using Haversine formula
+- 📦 End-to-end pickup scheduling
+- 🔐 JWT authentication + BCrypt security
+- 13+ REST API endpoints
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **Backend Microservices with Spring Boot**
-- **Clean Architecture in Flutter**
-- **CI/CD** automation with GitHub Actions
+## 📊 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srivastava-Shubham&show_icons=true&theme=dark)
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/shubham-srivastava-87718a297/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shubham.srivastava1207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Shubham-127"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 📫 Connect With Me
 
----
-
-### ✨ Fun Fact
-> “First, solve the problem. Then, write the code.” – John Johnson  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
----
-⭐️ *From [Shubham Srivastava](https://github.com/Shubham-127)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-srivastava)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.srivastava1207@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srivastava-Shubham)
 
