@@ -52,9 +52,9 @@ A full-stack cross-platform waste management platform built with Flutter and Spr
 
 ## 📊 GitHub Stats
 
-![Shubham-127's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham-127&show_icons=true&theme=dark&hide_border=true)
+![Shubham Srivastava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham-127&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Shubham's GitHub Streak](https://streak-stats.demolab.com?user=Shubham-127&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shubham-127&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-127&layout=compact&theme=dark&hide_border=true)
 
